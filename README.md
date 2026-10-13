@@ -7,6 +7,8 @@ mapping CLI. Ship one registry, get consistent exit codes across scripts,
 CI jobs and agents. Pure standard library. *No direct equivalent found as of
 2026-10-13.*
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Every LLM gateway script reinvents failure handling: 429 sometimes maps to
